@@ -1,0 +1,56 @@
+== Maml
+@ lazymaml.org
+
+Maml= modeling apathy markup language
+
+
+== Spec
+-minimal text to define fields
+-strings (plain text) and ids (anything with _id) are defaults
+-: and . id strings and integers explicitly. e.g. :myid_id (a string) or .funnyid (an integer)
+-text: ::text
+-float: ..float
+-boolean: =boolean
+-dates: %date
+-datetime: %%
+-time: @
+-timestamp: @@
+-binary: &
+-alternatively, suffixes can be used (later version):
+  mystring:string or mystring:s
+  myint:integer/i
+  myfloat:float/f
+  mydate:date/d
+  mytimestamp:time/t
+
+-full list of suffixes:
+  i,f,d,dt,ts,ti,t,s,bi,b
+
+-yaml levls:
+  level 1: module or application
+    level 2: class
+      level 3: field
+
+
+
+== To Do
+release 0.1:
+-DONE! support defaults and funny characters only
+-DONE! log results to maml.log
+-DONE! option to run against model or scaffold
+-base on a one-time only run  CHANGE: check for model and only run if no model
+-save generated commands to maml subdirectory for later review
+
+release 0.2:
+-add full text descriptions
+-multiple runs (only run items after last blank newline..could have generated migration inserted, removing new line?)
+-add migration indicators:
+  -parse maml directory for files and find highs mamal number
+  -?insert number into ALL mamal files (i like above idea of adding migration to file)
+  -add new items afer.
+  
+release 0.3:
+-add enumerations 
+  e.g. %w[Meal Snack]
+-add code
+-add model relationships

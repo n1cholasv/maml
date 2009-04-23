@@ -1,0 +1,38 @@
+# maml- migration apathy markup lanaguage
+# integer, float,  date, datetime, timestamp, time, text, string, binary, boolean
+#
+# specify field type by symbol prefix as follows
+# default type is string, except where field has _id suffix- then it's integer (override by adding prefix as shown below)
+# .integer, ..float,  %date, %%datetime, @time, @@timestamp, :string, ::text, =boolean, &binary
+#
+# The structure of the markup is as follows:
+# level 1: module, level 2: class, level 3: field
+#
+# Here is a sample blog model:
+
+superblog:
+  user:
+    - name
+    - login
+    - password
+
+  post:
+    - title
+    - post
+    - category_id
+    - %publication_date
+    - =is_published
+    - category_id
+    - user_id
+
+  comment:
+	  - comment
+    - author
+    - email
+	  - post_id
+	  - .number
+	  - post_id
+
+  category:
+    - category
+    - description
