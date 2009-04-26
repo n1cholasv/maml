@@ -2,17 +2,17 @@
 
 Gem::Specification.new do |s|
   s.name = %q{maml}
-  s.version = "0.1.0"
+  s.version = "0.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.2") if s.respond_to? :required_rubygems_version=
   s.authors = ["Nick Van Weerdenburg"]
   s.date = %q{2009-04-25}
   s.description = %q{Modeling Apathy Markup Language}
   s.email = %q{nick@gmail.com}
-  s.extra_rdoc_files = ["lib/maml.rb", "LICENSE", "README.rdoc"]
-  s.files = ["archive/lazymaml.gemspec", "lib/maml.rb", "LICENSE", "maml.yml", "maml_spec.txt", "Rakefile", "README.rdoc", "Manifest", "maml.gemspec"]
+  s.extra_rdoc_files = ["CHANGELOG", "lib/maml.rb", "LICENSE", "README.rdoc"]
+  s.files = ["CHANGELOG", "echoe_notes", "init.rb", "lib/maml.rb", "LICENSE", "maml", "maml.gemspec", "maml.yml", "maml_spec.txt", "Manifest", "Rakefile", "README.rdoc"]
   s.has_rdoc = true
-  s.homepage = %q{http://github.com/vanweerd/lazymaml}
+  s.homepage = %q{http://github.com/vanweerd/maml}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Maml", "--main", "README.rdoc"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{maml}

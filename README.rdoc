@@ -1,4 +1,4 @@
-== Lazy MAML.rb
+= Lazy MAML.rb
 
 Please visit http://lazymaml.org for usage details.
 

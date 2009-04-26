@@ -1,0 +1,24 @@
+= MAML Gem
+This gem is built using the echoe gem.
+
+
+== Initial gem
+
+
+
+== Build new gems
+
+# modify version in gemspec
+rake manifest
+rake build_gemspec
+
+# upload to gemspect again
+
+
+== Using as a Plugin
+
+add init.rb to include maml.rb
+script/install <github_path> 
+# to install as a plugin into a project.
+
+# users have option of using gem or plugin.

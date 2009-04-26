@@ -1,7 +1,7 @@
 == Maml
 @ lazymaml.org
 
-Maml= modeling apathy markup language
+Maml= migration apathy markup language
 
 
 == Spec
@@ -37,7 +37,7 @@ Maml= modeling apathy markup language
 release 0.1:
 -DONE! support defaults and funny characters only
 -DONE! log results to maml.log
--DONE! option to run against model or scaffold
+-option to run against model or scaffold
 -base on a one-time only run  CHANGE: check for model and only run if no model
 -save generated commands to maml subdirectory for later review
 
