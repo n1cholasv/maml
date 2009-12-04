@@ -2,4 +2,4 @@
 $LOAD_PATH.unshift(File.expand_path(File.dirname(__FILE__) + "/../lib"))
 require 'maml/maml'
 # exit ::Spec::Runner::CommandLine.run
-exit main  # todo: move to module
+exit ::Maml::main  # todo: move to module

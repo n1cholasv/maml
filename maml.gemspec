@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{maml}
-  s.version = "0.1.5"
+  s.version = "0.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Nick Van Weerdenburg"]
@@ -30,8 +30,7 @@ Gem::Specification.new do |s|
      "init.rb",
      "lib/maml.rb",
      "lib/maml/maml.rb",
-     "maml-0.1.1.gem",
-     "maml-0.1.2.gem",
+     "lib/maml/maml.yml",
      "maml.gemspec",
      "maml.yml",
      "maml_spec.txt"

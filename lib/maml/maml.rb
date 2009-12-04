@@ -9,6 +9,7 @@
 # todo: 
 require "yaml"
 require "logger"
+require "ftools"
 
 # mechanism to get current method name..don't really need for current implementation..was for writing handlers that could write their own name
 module CurrentMethodName
@@ -36,6 +37,12 @@ module Maml
   # simple test fixture
   def test
     string_arg
+  end
+  
+  def create_sample
+    pwd=Dir.pwd
+    sample= File.join File.dirname(__FILE__), "maml.yml"
+    File.copy sample, pwd, true
   end
 
   def extract_arg maml_field
@@ -159,6 +166,7 @@ module Maml
     puts "use ---haml or similar for adding extra commands. -<anything> is passed to the command-line minus the -"
     puts "maml supports one file at time"
     puts "generated files are in <rails_root>/maml"
+    puts "Run 'maml.rb create_sample' to generate a sample maml.yml file for a starting point. Note: this will overwrite any existing maml.yml."
     puts "\nSpecify field type by symbol prefix as follows:"
     puts "no prefix=string ; no prefix and _id suffix = integer ; override _id by adding prefix"
     puts "examples: string, integer_id, .integer, ..float,  %date, %%datetime, @time, @@timestamp, :string, ::text, =boolean, &binary"
@@ -173,6 +181,23 @@ module Maml
     file="maml.yml" unless file
     generate_command="model" unless generate_command
     puts "generate_command=#{generate_command}, file=#{file}"
+    
+    # allow copy_sample via file (e.g. maml.rb copy_sample) or via command (e.g. maml.rb -copy_sample)
+    case file
+      when "create_sample"
+        create_sample
+        exit
+      else
+        # continue on
+    end
+
+    case generate_command
+      when "create_sample"
+        create_sample
+        exit
+      else
+        # continue on
+    end
   
     maml=nil
     begin 
@@ -234,14 +259,17 @@ module Maml
     
     puts "\n\nDONE! Look at maml.log for script results, and in app/models, db/migrations, test/fixtures and test/unit for generated code (if you ran maml.rb with a command line arg)"
     unless ARGV[0]
-      puts "\n\nUse 'maml.rb maml.yml' (or other file arg) to actuallly run generators. Running with default maml.yml does test run only."
+      puts "\n\nUse 'maml.rb maml.yml' (or other file arg) to actuallly run generators. Running with default maml.yml does trial run only."
     end
+  ensure
+    puts "Thanks for being a Lazy MAML!"
+    return 0
   end
 end
 
 # only run main if run standalone (e.g. not via ruby require)
 if __FILE__ == $0
-   # puts "***** #{File.basename($0)} ran from file *****"
+   puts "***** #{File.basename($0)} ran from file *****"
 
    Maml.main
 end

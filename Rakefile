@@ -10,6 +10,7 @@ begin
     gemspec.email = "vanweerd@gmail.com"
     gemspec.homepage = "http://github.com/vanweerd/maml"
     gemspec.authors = ["Nick Van Weerdenburg"]
+    gemspec.files.include %w(lib/maml/maml.yml)
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError
