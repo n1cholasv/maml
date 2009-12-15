@@ -1,0 +1,21 @@
+# maml- migration apathy markup lanaguage
+# integer, float,  date, datetime, timestamp, time, text, string, binary, boolean
+#
+# specify field type by symbol prefix as follows
+# default type is string, except where field has _id suffice- then it's integer (override by adding prefix as shown below)
+# .integer, ..float,  %date, %%datetime, @time, @@timestamp, :string, ::text, =boolean, &binary
+#
+# level 1: module, level 2: class, level 3: field
+# maml.yml is a sample file for a starting point. maml sample copies it to current directory.
+
+# illegal: to many levels
+innerplate:
+    Plate:
+        Another:
+          - day_id  # any _id defaults to integer
+          - meal_id 50 true
+          - notes
+          - status
+          - completeness
+          - .calories
+          - ti tle
