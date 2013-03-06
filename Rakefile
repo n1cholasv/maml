@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'rake'
+require 'rake/testtask'
 
 begin
   require 'jeweler'
@@ -18,3 +19,10 @@ rescue LoadError
 end
 
 Dir["#{File.dirname(__FILE__)}/tasks/*.rake"].sort.each{|ext| load ext}
+
+Rake::TestTask.new do |t|
+  t.libs << 'test'
+end
+
+desc "Run tests"
+task :default => :test

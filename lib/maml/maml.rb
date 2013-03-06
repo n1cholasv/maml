@@ -24,7 +24,7 @@ include CurrentMethodName
 module Maml
   $logger=Logger.new('maml.log') 
   $logger.level=Logger::INFO
-  $logger.info "PLATFORM=#{PLATFORM}"
+  $logger.info "PLATFORM=#{RUBY_PLATFORM}"
 
   # look user and project configuration file
   user_config_file=ENV['HOME'] + "/.mamlrc"

@@ -1,0 +1,91 @@
+# Logfile created on 2013-03-05 19:23:05 -0500 by logger.rb/31641
+I, [2013-03-05T19:23:05.870877 #81563]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:23:05.870943 #81563]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:23:05.870975 #81563]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:23:05.871160 #81563]  INFO -- : 
+generate_command=, file=
+I, [2013-03-05T19:23:05.871198 #81563]  INFO -- : @file_provided=
+I, [2013-03-05T19:30:23.989020 #81675]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:30:23.989130 #81675]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:30:23.989169 #81675]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:30:23.989322 #81675]  INFO -- : 
+generate_command=, file=
+I, [2013-03-05T19:30:23.989361 #81675]  INFO -- : @file_provided=
+I, [2013-03-05T19:30:52.973748 #81676]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:30:52.973855 #81676]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:30:52.973894 #81676]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:30:52.974087 #81676]  INFO -- : 
+generate_command=, file=
+I, [2013-03-05T19:30:52.974154 #81676]  INFO -- : @file_provided=
+I, [2013-03-05T19:34:33.043530 #81739]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:34:33.043663 #81739]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:34:33.043703 #81739]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:34:33.043931 #81739]  INFO -- : 
+generate_command=, file=file=maml.yml
+I, [2013-03-05T19:34:33.043991 #81739]  INFO -- : @file_provided=true
+I, [2013-03-05T19:35:01.485977 #81740]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:35:01.486098 #81740]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:35:01.486196 #81740]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:35:01.486489 #81740]  INFO -- : 
+generate_command=, file=maml.yml
+I, [2013-03-05T19:35:01.486597 #81740]  INFO -- : @file_provided=true
+I, [2013-03-05T19:35:15.640160 #81741]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:35:15.640291 #81741]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:35:15.640340 #81741]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:35:15.640586 #81741]  INFO -- : 
+generate_command=, file=
+I, [2013-03-05T19:35:15.640646 #81741]  INFO -- : @file_provided=
+I, [2013-03-05T19:35:19.518376 #81742]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:35:19.518498 #81742]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:35:19.518530 #81742]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:35:19.518726 #81742]  INFO -- : 
+generate_command=, file=
+I, [2013-03-05T19:35:19.518783 #81742]  INFO -- : @file_provided=
+I, [2013-03-05T19:35:24.888427 #81744]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:35:24.888559 #81744]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:35:24.888592 #81744]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:35:24.888763 #81744]  INFO -- : 
+generate_command=, file=maml2.yml
+I, [2013-03-05T19:35:24.888825 #81744]  INFO -- : @file_provided=true
+I, [2013-03-05T19:43:07.424561 #81897]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:43:07.424667 #81897]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:43:07.424701 #81897]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:45:45.647774 #81950]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:45:45.647894 #81950]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:45:45.647925 #81950]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:47:01.964714 #81962]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:47:01.964814 #81962]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:47:01.964845 #81962]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:48:55.339444 #82000]  INFO -- : PLATFORM=universal-darwin12.0
+I, [2013-03-05T19:48:55.339800 #82000]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:48:55.339849 #82000]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:49:06.581014 #82011]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:49:06.581128 #82011]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:49:06.581157 #82011]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:49:19.710357 #82017]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:49:19.710464 #82017]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:49:19.710496 #82017]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:50:01.769720 #82042]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:50:01.769820 #82042]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:50:01.769851 #82042]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:50:31.499246 #82072]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:50:31.499346 #82072]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:50:31.499375 #82072]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:50:35.103012 #82074]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:50:35.103139 #82074]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:50:35.103170 #82074]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:52:00.014639 #82105]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:52:00.014746 #82105]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:52:00.014774 #82105]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:54:07.370469 #82143]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:54:07.370606 #82143]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:54:07.370640 #82143]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:54:21.223556 #82144]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:54:21.223698 #82144]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:54:21.223738 #82144]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:54:21.223965 #82144]  INFO -- : 
+generate_command=, file=maml2.maml
+I, [2013-03-05T19:54:21.224030 #82144]  INFO -- : @file_provided=true
+I, [2013-03-05T19:54:45.550440 #82164]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:54:45.550538 #82164]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:54:45.550579 #82164]  INFO -- : project .mamlrc false
