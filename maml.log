@@ -89,3 +89,850 @@ I, [2013-03-05T19:54:21.224030 #82144]  INFO -- : @file_provided=true
 I, [2013-03-05T19:54:45.550440 #82164]  INFO -- : PLATFORM=x86_64-darwin12.2.1
 I, [2013-03-05T19:54:45.550538 #82164]  INFO -- : user .mamlrc false
 I, [2013-03-05T19:54:45.550579 #82164]  INFO -- : project .mamlrc false
+I, [2013-03-05T19:58:18.019933 #82192]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T19:58:18.020037 #82192]  INFO -- : user .mamlrc false
+I, [2013-03-05T19:58:18.020067 #82192]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:00:24.993089 #82207]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:00:24.993183 #82207]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:00:24.993212 #82207]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:00:40.224074 #82208]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:00:40.224185 #82208]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:00:40.224215 #82208]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:00:40.224426 #82208]  INFO -- : 
+generate_command=scaffold, file=
+I, [2013-03-05T20:00:40.224478 #82208]  INFO -- : @file_provided=
+I, [2013-03-05T20:01:06.525780 #82217]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:01:06.525899 #82217]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:01:06.525933 #82217]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:01:06.526103 #82217]  INFO -- : 
+generate_command=scaffold, file=
+I, [2013-03-05T20:01:06.526142 #82217]  INFO -- : @file_provided=
+I, [2013-03-05T20:01:43.593999 #82219]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:01:43.594106 #82219]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:01:43.594137 #82219]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:01:43.594290 #82219]  INFO -- : 
+generate_command=, file=create_sample
+I, [2013-03-05T20:01:43.594329 #82219]  INFO -- : @file_provided=true
+I, [2013-03-05T20:01:56.210279 #82220]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:01:56.210387 #82220]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:01:56.210419 #82220]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:01:56.210585 #82220]  INFO -- : 
+generate_command=, file=create_sample
+I, [2013-03-05T20:01:56.210642 #82220]  INFO -- : @file_provided=true
+I, [2013-03-05T20:02:00.767381 #82221]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:02:00.767506 #82221]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:02:00.767546 #82221]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:02:00.767706 #82221]  INFO -- : 
+generate_command=, file=
+I, [2013-03-05T20:02:00.767760 #82221]  INFO -- : @file_provided=
+I, [2013-03-05T20:02:32.600140 #82222]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:02:32.600240 #82222]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:02:32.600274 #82222]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:02:32.600422 #82222]  INFO -- : 
+generate_command=, file=create_sample
+I, [2013-03-05T20:02:32.600457 #82222]  INFO -- : @file_provided=true
+I, [2013-03-05T20:05:38.786492 #82242]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:05:38.786599 #82242]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:05:38.786632 #82242]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:05:38.786794 #82242]  INFO -- : 
+generate_command=, file=create_sample
+I, [2013-03-05T20:05:38.786847 #82242]  INFO -- : @file_provided=true
+I, [2013-03-05T20:06:25.822526 #82264]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:06:25.822632 #82264]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:06:25.822671 #82264]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:06:25.822828 #82264]  INFO -- : 
+==== generate_command=, file=create_sample
+I, [2013-03-05T20:06:25.822867 #82264]  INFO -- : @file_provided=true
+I, [2013-03-05T20:07:31.708536 #82294]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:07:31.708644 #82294]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:07:31.708672 #82294]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:07:31.708762 #82294]  INFO -- : 
+==== generate_command=, file=create_sample
+I, [2013-03-05T20:07:31.708797 #82294]  INFO -- : @file_provided=true
+I, [2013-03-05T20:08:00.056511 #82314]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:08:00.056612 #82314]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:08:00.056640 #82314]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:08:00.056723 #82314]  INFO -- : 
+==== generate_command=, file=create_sample
+I, [2013-03-05T20:08:00.056756 #82314]  INFO -- : @file_provided=true
+I, [2013-03-05T20:08:37.734846 #82373]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:08:37.734965 #82373]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:08:37.734998 #82373]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:08:37.735075 #82373]  INFO -- : 
+==== generate_command=, file=create_sample
+I, [2013-03-05T20:08:37.735113 #82373]  INFO -- : @file_provided=true
+I, [2013-03-05T20:08:44.175441 #82374]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:08:44.175568 #82374]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:08:44.175600 #82374]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:08:44.175678 #82374]  INFO -- : 
+==== generate_command=create_sample, file=
+I, [2013-03-05T20:08:44.175714 #82374]  INFO -- : @file_provided=
+I, [2013-03-05T20:10:12.829787 #82397]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:10:12.829903 #82397]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:10:12.829941 #82397]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:10:12.830071 #82397]  INFO -- : 
+==== generate_command=create_sample, file=
+I, [2013-03-05T20:10:12.830134 #82397]  INFO -- : @file_provided=
+I, [2013-03-05T20:10:12.830194 #82397]  INFO -- : create_sample called
+I, [2013-03-05T20:10:44.611357 #82417]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:10:44.611475 #82417]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:10:44.611507 #82417]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:10:44.611588 #82417]  INFO -- : 
+==== generate_command=create_sample, file=
+I, [2013-03-05T20:10:44.611625 #82417]  INFO -- : @file_provided=
+I, [2013-03-05T20:10:44.611683 #82417]  INFO -- : create_sample called, sample=/Users/vanweerd/work4/maml/lib/maml/maml.yml
+I, [2013-03-05T20:11:45.924319 #82464]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:11:45.924430 #82464]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:11:45.924480 #82464]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:11:45.924548 #82464]  INFO -- : 
+==== generate_command=, file=
+I, [2013-03-05T20:11:45.924589 #82464]  INFO -- : @file_provided=
+I, [2013-03-05T20:11:53.457179 #82465]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:11:53.457290 #82465]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:11:53.457321 #82465]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:11:53.457399 #82465]  INFO -- : 
+==== generate_command=create_sample, file=
+I, [2013-03-05T20:11:53.457435 #82465]  INFO -- : @file_provided=
+I, [2013-03-05T20:11:53.457496 #82465]  INFO -- : create_sample called, sample=/Users/vanweerd/work4/maml/lib/maml/maml.yml, pwd=/Users/vanweerd/work4/maml
+I, [2013-03-05T20:20:25.855333 #82570]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:20:25.855475 #82570]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:20:25.855509 #82570]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:20:25.855576 #82570]  INFO -- : 
+==== generate_command=create_sample, file=
+I, [2013-03-05T20:20:25.855620 #82570]  INFO -- : @file_provided=
+I, [2013-03-05T20:20:25.855702 #82570]  INFO -- : create_sample called, sample=/Users/vanweerd/work4/maml/lib/maml/maml.yml, pwd=/Users/vanweerd/work4/maml
+I, [2013-03-05T20:20:53.209056 #82590]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:20:53.209174 #82590]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:20:53.209207 #82590]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:20:53.209281 #82590]  INFO -- : 
+==== generate_command=create_sample, file=
+I, [2013-03-05T20:20:53.209321 #82590]  INFO -- : @file_provided=
+I, [2013-03-05T20:20:53.209408 #82590]  INFO -- : create_sample called, sample=/Users/vanweerd/work4/maml/lib/maml/maml.yml, pwd=/Users/vanweerd/work4/maml
+I, [2013-03-05T20:24:19.528392 #82631]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:24:19.528516 #82631]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:24:19.528552 #82631]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:25:17.617355 #82647]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:25:17.617479 #82647]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:25:17.617512 #82647]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:25:44.026205 #82676]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:25:44.026323 #82676]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:25:44.026358 #82676]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:27:03.973622 #82710]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:27:03.973748 #82710]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:27:03.973799 #82710]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:27:49.698299 #82723]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:27:49.698444 #82723]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:27:49.698510 #82723]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:29:53.719278 #82772]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:29:53.719440 #82772]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:29:53.719509 #82772]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:29:53.721743 #82772]  INFO -- : create_sample called, sample=/Users/vanweerd/work4/maml/lib/maml/maml.yml, pwd=/Users/vanweerd/work4/maml
+I, [2013-03-05T20:30:56.036416 #82776]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:30:56.036535 #82776]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:30:56.036575 #82776]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:30:56.037918 #82776]  INFO -- : create_sample called, sample=/Users/vanweerd/work4/maml/lib/maml/maml.yml, pwd=/Users/vanweerd/work4/maml
+I, [2013-03-05T20:31:28.717017 #82800]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:31:28.717132 #82800]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:31:28.717170 #82800]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:31:28.718731 #82800]  INFO -- : create_sample called, sample=/Users/vanweerd/work4/maml/lib/maml/maml.yml, pwd=/Users/vanweerd/work4/maml
+I, [2013-03-05T20:32:45.072065 #82820]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:32:45.072200 #82820]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:32:45.072236 #82820]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:32:45.072377 #82820]  INFO -- : 
+==== generate_command=, file=
+I, [2013-03-05T20:32:45.072430 #82820]  INFO -- : @file_provided=
+I, [2013-03-05T20:33:06.112479 #82823]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:33:06.112600 #82823]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:33:06.112652 #82823]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:33:06.112800 #82823]  INFO -- : 
+==== generate_command=create_sample, file=
+I, [2013-03-05T20:33:06.112855 #82823]  INFO -- : @file_provided=
+I, [2013-03-05T20:33:06.112945 #82823]  INFO -- : create_sample called, sample=/Users/vanweerd/work4/maml/lib/maml/maml.yml, pwd=/Users/vanweerd/work4/maml
+I, [2013-03-05T20:33:19.143707 #82826]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:33:19.143840 #82826]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:33:19.143879 #82826]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:33:19.144041 #82826]  INFO -- : 
+generate_command=, file=
+I, [2013-03-05T20:33:19.144082 #82826]  INFO -- : @file_provided=
+I, [2013-03-05T20:35:02.005539 #82840]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:35:02.005667 #82840]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:35:02.005707 #82840]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:35:02.005862 #82840]  INFO -- : 
+==== generate_command=, file=
+I, [2013-03-05T20:35:02.005899 #82840]  INFO -- : @file_provided=
+I, [2013-03-05T20:35:20.759083 #82846]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:35:20.759198 #82846]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:35:20.759264 #82846]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:35:20.759447 #82846]  INFO -- : 
+==== generate_command=, file=
+I, [2013-03-05T20:35:20.759485 #82846]  INFO -- : @file_provided=
+I, [2013-03-05T20:36:55.520629 #82867]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:36:55.520773 #82867]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:36:55.520822 #82867]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:36:55.521065 #82867]  INFO -- : ========> main method called
+I, [2013-03-05T20:36:55.521150 #82867]  INFO -- : 
+==== generate_command=, file=
+I, [2013-03-05T20:36:55.521198 #82867]  INFO -- : @file_provided=
+I, [2013-03-05T20:38:10.744534 #82892]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:38:10.744658 #82892]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:38:10.744689 #82892]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:38:10.744816 #82892]  INFO -- : ========> main method called
+I, [2013-03-05T20:38:10.744866 #82892]  INFO -- : 
+==== generate_command=, file=
+I, [2013-03-05T20:38:10.744910 #82892]  INFO -- : @file_provided=
+I, [2013-03-05T20:38:10.744936 #82892]  INFO -- : generate_command=model, file=maml.yml
+I, [2013-03-05T20:38:42.696751 #82903]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:38:42.696882 #82903]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:38:42.696922 #82903]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:38:42.697235 #82903]  INFO -- : ========> main method called
+I, [2013-03-05T20:38:42.697358 #82903]  INFO -- : 
+==== generate_command=, file=
+I, [2013-03-05T20:38:42.697410 #82903]  INFO -- : @file_provided=
+I, [2013-03-05T20:38:42.697455 #82903]  INFO -- : generate_command=model, file=maml.yml
+I, [2013-03-05T20:38:42.697506 #82903]  INFO -- : about to load YAML file
+I, [2013-03-05T20:39:01.579229 #82913]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:39:01.579353 #82913]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:39:01.579388 #82913]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:39:01.579525 #82913]  INFO -- : ========> main method called
+I, [2013-03-05T20:39:01.579579 #82913]  INFO -- : 
+==== generate_command=, file=
+I, [2013-03-05T20:39:01.579606 #82913]  INFO -- : @file_provided=
+I, [2013-03-05T20:39:01.579631 #82913]  INFO -- : generate_command=model, file=maml.yml
+I, [2013-03-05T20:39:01.579663 #82913]  INFO -- : about to load YAML file file=maml.yml
+I, [2013-03-05T20:41:03.172187 #82939]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:41:03.172336 #82939]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:41:03.172412 #82939]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:41:03.172768 #82939]  INFO -- : ========> main method called
+I, [2013-03-05T20:41:03.172857 #82939]  INFO -- : 
+==== generate_command=, file=
+I, [2013-03-05T20:41:03.172907 #82939]  INFO -- : @file_provided=
+I, [2013-03-05T20:41:03.172952 #82939]  INFO -- : generate_command=model, file=maml.yml
+I, [2013-03-05T20:41:03.173009 #82939]  INFO -- : about to load YAML file file=maml.yml
+I, [2013-03-05T20:45:52.713588 #82992]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:45:52.713709 #82992]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:45:52.713742 #82992]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:45:52.713893 #82992]  INFO -- : 
+generate_command=create_sample, file=
+I, [2013-03-05T20:45:52.713931 #82992]  INFO -- : @file_provided=
+I, [2013-03-05T20:47:07.614695 #83020]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:47:07.614816 #83020]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:47:07.614847 #83020]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:47:07.614987 #83020]  INFO -- : 
+generate_command=, file=
+I, [2013-03-05T20:47:07.615022 #83020]  INFO -- : @file_provided=
+I, [2013-03-05T20:47:07.616075 #83020]  INFO -- : YAML loaded file
+I, [2013-03-05T20:47:07.616155 #83020]  INFO -- : extract_arg=> maml_field=day_id
+I, [2013-03-05T20:47:07.616289 #83020]  INFO -- : extract_arg=> maml_field=meal_id 50 true
+I, [2013-03-05T20:47:07.616361 #83020]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:47:07.616479 #83020]  INFO -- : extract_arg=> maml_field=status
+I, [2013-03-05T20:47:07.616552 #83020]  INFO -- : extract_arg=> maml_field=completeness
+I, [2013-03-05T20:47:07.616632 #83020]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:47:07.616687 #83020]  INFO -- : extract_arg=> maml_field=title
+I, [2013-03-05T20:47:07.616767 #83020]  INFO -- : extract_arg=> maml_field=plate_id
+I, [2013-03-05T20:47:07.616839 #83020]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:47:07.616936 #83020]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:47:07.617011 #83020]  INFO -- : extract_arg=> maml_field=.units
+I, [2013-03-05T20:47:07.617075 #83020]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:47:07.617139 #83020]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:47:07.617234 #83020]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:47:07.617323 #83020]  INFO -- : extract_arg=> maml_field=base_uofm_id
+I, [2013-03-05T20:47:07.617381 #83020]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:47:07.617451 #83020]  INFO -- : extract_arg=> maml_field=ratio
+I, [2013-03-05T20:47:07.617516 #83020]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:47:07.617575 #83020]  INFO -- : extract_arg=> maml_field=system
+I, [2013-03-05T20:47:07.617665 #83020]  INFO -- : extract_arg=> maml_field=.related_measures
+I, [2013-03-05T20:47:07.617737 #83020]  INFO -- : extract_arg=> maml_field=..ratio
+I, [2013-03-05T20:47:07.617809 #83020]  INFO -- : extract_arg=> maml_field==is_base
+I, [2013-03-05T20:47:07.617909 #83020]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:47:07.618007 #83020]  INFO -- : extract_arg=> maml_field=.proportion
+I, [2013-03-05T20:47:07.618123 #83020]  INFO -- : extract_arg=> maml_field=type %w[Meal Snack]
+I, [2013-03-05T20:47:07.618207 #83020]  INFO -- : extract_arg=> maml_field==in_library
+I, [2013-03-05T20:47:07.618262 #83020]  INFO -- : extract_arg=> maml_field==is_abstract
+I, [2013-03-05T20:47:07.618334 #83020]  INFO -- : extract_arg=> maml_field=.level
+I, [2013-03-05T20:47:07.618421 #83020]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:47:07.618519 #83020]  INFO -- : extract_arg=> maml_field=description
+I, [2013-03-05T20:47:07.618588 #83020]  INFO -- : extract_arg=> maml_field=category_id
+I, [2013-03-05T20:47:07.618667 #83020]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:47:07.618788 #83020]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:47:07.618871 #83020]  INFO -- : extract_arg=> maml_field=information_source
+I, [2013-03-05T20:47:07.618970 #83020]  INFO -- : extract_arg=> maml_field=accuracy %w[Draft Good Certain]
+I, [2013-03-05T20:47:07.619046 #83020]  INFO -- : extract_arg=> maml_field=category %w[Grains Protein Dairy Fruit Vegetables]
+I, [2013-03-05T20:47:07.619146 #83020]  INFO -- : ---- model: Plate 
+			day_id:integer
+			meal_id:integer
+			notes:string
+			status:string
+			completeness:string
+			calories:integer
+			title:string
+---
+
+
+I, [2013-03-05T20:47:07.619235 #83020]  INFO -- : ---- model: Plate_Item 
+			plate_id:integer
+			item_id:integer
+			uofm_id:integer
+			units:integer
+			calories:integer
+			notes:string
+---
+
+
+I, [2013-03-05T20:47:07.619343 #83020]  INFO -- : ---- model: Conversion 
+			item_id:integer
+			base_uofm_id:integer
+			uofm_id:integer
+			ratio:string
+---
+
+
+I, [2013-03-05T20:47:07.619402 #83020]  INFO -- : ---- model: UnitOfMeasure 
+			name:string
+			system:string
+			related_measures:integer
+			ratio:float
+			is_base:boolean
+---
+
+
+I, [2013-03-05T20:47:07.619446 #83020]  INFO -- : ---- model: Meal 
+			name:string
+			proportion:integer
+			type:string
+---
+
+
+I, [2013-03-05T20:47:07.619507 #83020]  INFO -- : ---- model: Item 
+			in_library:boolean
+			is_abstract:boolean
+			level:integer
+			name:string
+			description:string
+			category_id:integer
+			calories:integer
+			uofm_id:integer
+			information_source:string
+			accuracy:string
+			category:string
+---
+
+
+I, [2013-03-05T20:47:26.416325 #83022]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:47:26.416434 #83022]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:47:26.416467 #83022]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:47:26.417875 #83022]  INFO -- : create_sample called, sample=/Users/vanweerd/work4/maml/lib/maml/maml.yml, pwd=/Users/vanweerd/work4/maml
+I, [2013-03-05T20:47:50.899131 #83026]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:47:50.899272 #83026]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:47:50.899325 #83026]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:47:50.899676 #83026]  INFO -- : 
+generate_command=, file=
+I, [2013-03-05T20:47:50.899757 #83026]  INFO -- : @file_provided=
+I, [2013-03-05T20:47:50.900951 #83026]  INFO -- : YAML loaded file
+I, [2013-03-05T20:47:50.901040 #83026]  INFO -- : extract_arg=> maml_field=day_id
+I, [2013-03-05T20:47:50.901237 #83026]  INFO -- : extract_arg=> maml_field=meal_id 50 true
+I, [2013-03-05T20:47:50.901344 #83026]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:47:50.901522 #83026]  INFO -- : extract_arg=> maml_field=status
+I, [2013-03-05T20:47:50.901633 #83026]  INFO -- : extract_arg=> maml_field=completeness
+I, [2013-03-05T20:47:50.901744 #83026]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:47:50.901843 #83026]  INFO -- : extract_arg=> maml_field=title
+I, [2013-03-05T20:47:50.901979 #83026]  INFO -- : extract_arg=> maml_field=plate_id
+I, [2013-03-05T20:47:50.902082 #83026]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:47:50.902180 #83026]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:47:50.902277 #83026]  INFO -- : extract_arg=> maml_field=.units
+I, [2013-03-05T20:47:50.902368 #83026]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:47:50.902467 #83026]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:47:50.902575 #83026]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:47:50.902667 #83026]  INFO -- : extract_arg=> maml_field=base_uofm_id
+I, [2013-03-05T20:47:50.902761 #83026]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:47:50.902832 #83026]  INFO -- : extract_arg=> maml_field=ratio
+I, [2013-03-05T20:47:50.902950 #83026]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:47:50.903043 #83026]  INFO -- : extract_arg=> maml_field=system
+I, [2013-03-05T20:47:50.903131 #83026]  INFO -- : extract_arg=> maml_field=.related_measures
+I, [2013-03-05T20:47:50.903216 #83026]  INFO -- : extract_arg=> maml_field=..ratio
+I, [2013-03-05T20:47:50.903306 #83026]  INFO -- : extract_arg=> maml_field==is_base
+I, [2013-03-05T20:47:50.903452 #83026]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:47:50.903549 #83026]  INFO -- : extract_arg=> maml_field=.proportion
+I, [2013-03-05T20:47:50.903642 #83026]  INFO -- : extract_arg=> maml_field=type %w[Meal Snack]
+I, [2013-03-05T20:47:50.903754 #83026]  INFO -- : extract_arg=> maml_field==in_library
+I, [2013-03-05T20:47:50.903848 #83026]  INFO -- : extract_arg=> maml_field==is_abstract
+I, [2013-03-05T20:47:50.903968 #83026]  INFO -- : extract_arg=> maml_field=.level
+I, [2013-03-05T20:47:50.904051 #83026]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:47:50.904140 #83026]  INFO -- : extract_arg=> maml_field=description
+I, [2013-03-05T20:47:50.904233 #83026]  INFO -- : extract_arg=> maml_field=category_id
+I, [2013-03-05T20:47:50.904312 #83026]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:47:50.904414 #83026]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:47:50.904514 #83026]  INFO -- : extract_arg=> maml_field=information_source
+I, [2013-03-05T20:47:50.904635 #83026]  INFO -- : extract_arg=> maml_field=accuracy %w[Draft Good Certain]
+I, [2013-03-05T20:47:50.904765 #83026]  INFO -- : extract_arg=> maml_field=category %w[Grains Protein Dairy Fruit Vegetables]
+I, [2013-03-05T20:47:50.904878 #83026]  INFO -- : ---- model: Plate 
+			day_id:integer
+			meal_id:integer
+			notes:string
+			status:string
+			completeness:string
+			calories:integer
+			title:string
+---
+
+
+I, [2013-03-05T20:47:50.904952 #83026]  INFO -- : ---- model: Plate_Item 
+			plate_id:integer
+			item_id:integer
+			uofm_id:integer
+			units:integer
+			calories:integer
+			notes:string
+---
+
+
+I, [2013-03-05T20:47:50.905051 #83026]  INFO -- : ---- model: Conversion 
+			item_id:integer
+			base_uofm_id:integer
+			uofm_id:integer
+			ratio:string
+---
+
+
+I, [2013-03-05T20:47:50.905123 #83026]  INFO -- : ---- model: UnitOfMeasure 
+			name:string
+			system:string
+			related_measures:integer
+			ratio:float
+			is_base:boolean
+---
+
+
+I, [2013-03-05T20:47:50.905186 #83026]  INFO -- : ---- model: Meal 
+			name:string
+			proportion:integer
+			type:string
+---
+
+
+I, [2013-03-05T20:47:50.905262 #83026]  INFO -- : ---- model: Item 
+			in_library:boolean
+			is_abstract:boolean
+			level:integer
+			name:string
+			description:string
+			category_id:integer
+			calories:integer
+			uofm_id:integer
+			information_source:string
+			accuracy:string
+			category:string
+---
+
+
+I, [2013-03-05T20:48:44.894591 #83028]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:48:44.894732 #83028]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:48:44.894767 #83028]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:48:44.894917 #83028]  INFO -- : 
+generate_command=, file=maml.yml
+I, [2013-03-05T20:48:44.894964 #83028]  INFO -- : @file_provided=true
+I, [2013-03-05T20:48:44.896129 #83028]  INFO -- : YAML loaded file
+I, [2013-03-05T20:48:44.896211 #83028]  INFO -- : extract_arg=> maml_field=day_id
+I, [2013-03-05T20:48:44.896343 #83028]  INFO -- : extract_arg=> maml_field=meal_id 50 true
+I, [2013-03-05T20:48:44.896436 #83028]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:48:44.896574 #83028]  INFO -- : extract_arg=> maml_field=status
+I, [2013-03-05T20:48:44.896666 #83028]  INFO -- : extract_arg=> maml_field=completeness
+I, [2013-03-05T20:48:44.896745 #83028]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:48:44.896832 #83028]  INFO -- : extract_arg=> maml_field=title
+I, [2013-03-05T20:48:44.896930 #83028]  INFO -- : extract_arg=> maml_field=plate_id
+I, [2013-03-05T20:48:44.897016 #83028]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:48:44.897116 #83028]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:48:44.897194 #83028]  INFO -- : extract_arg=> maml_field=.units
+I, [2013-03-05T20:48:44.897265 #83028]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:48:44.897345 #83028]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:48:44.897432 #83028]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:48:44.897519 #83028]  INFO -- : extract_arg=> maml_field=base_uofm_id
+I, [2013-03-05T20:48:44.898131 #83028]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:48:44.898201 #83028]  INFO -- : extract_arg=> maml_field=ratio
+I, [2013-03-05T20:48:44.898332 #83028]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:48:44.898452 #83028]  INFO -- : extract_arg=> maml_field=system
+I, [2013-03-05T20:48:44.898594 #83028]  INFO -- : extract_arg=> maml_field=.related_measures
+I, [2013-03-05T20:48:44.898701 #83028]  INFO -- : extract_arg=> maml_field=..ratio
+I, [2013-03-05T20:48:44.898800 #83028]  INFO -- : extract_arg=> maml_field==is_base
+I, [2013-03-05T20:48:44.898917 #83028]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:48:44.899025 #83028]  INFO -- : extract_arg=> maml_field=.proportion
+I, [2013-03-05T20:48:44.899145 #83028]  INFO -- : extract_arg=> maml_field=type %w[Meal Snack]
+I, [2013-03-05T20:48:44.899233 #83028]  INFO -- : extract_arg=> maml_field==in_library
+I, [2013-03-05T20:48:44.899323 #83028]  INFO -- : extract_arg=> maml_field==is_abstract
+I, [2013-03-05T20:48:44.899424 #83028]  INFO -- : extract_arg=> maml_field=.level
+I, [2013-03-05T20:48:44.899540 #83028]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:48:44.899661 #83028]  INFO -- : extract_arg=> maml_field=description
+I, [2013-03-05T20:48:44.899763 #83028]  INFO -- : extract_arg=> maml_field=category_id
+I, [2013-03-05T20:48:44.899880 #83028]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:48:44.900009 #83028]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:48:44.900109 #83028]  INFO -- : extract_arg=> maml_field=information_source
+I, [2013-03-05T20:48:44.900235 #83028]  INFO -- : extract_arg=> maml_field=accuracy %w[Draft Good Certain]
+I, [2013-03-05T20:48:44.900346 #83028]  INFO -- : extract_arg=> maml_field=category %w[Grains Protein Dairy Fruit Vegetables]
+I, [2013-03-05T20:48:44.900470 #83028]  INFO -- : ---- model: Plate 
+			day_id:integer
+			meal_id:integer
+			notes:string
+			status:string
+			completeness:string
+			calories:integer
+			title:string
+---
+
+
+I, [2013-03-05T20:48:44.900557 #83028]  INFO -- : ---- model: Plate_Item 
+			plate_id:integer
+			item_id:integer
+			uofm_id:integer
+			units:integer
+			calories:integer
+			notes:string
+---
+
+
+I, [2013-03-05T20:48:44.900683 #83028]  INFO -- : ---- model: Conversion 
+			item_id:integer
+			base_uofm_id:integer
+			uofm_id:integer
+			ratio:string
+---
+
+
+I, [2013-03-05T20:48:44.900767 #83028]  INFO -- : ---- model: UnitOfMeasure 
+			name:string
+			system:string
+			related_measures:integer
+			ratio:float
+			is_base:boolean
+---
+
+
+I, [2013-03-05T20:48:44.900846 #83028]  INFO -- : ---- model: Meal 
+			name:string
+			proportion:integer
+			type:string
+---
+
+
+I, [2013-03-05T20:48:44.900933 #83028]  INFO -- : ---- model: Item 
+			in_library:boolean
+			is_abstract:boolean
+			level:integer
+			name:string
+			description:string
+			category_id:integer
+			calories:integer
+			uofm_id:integer
+			information_source:string
+			accuracy:string
+			category:string
+---
+
+
+I, [2013-03-05T20:49:10.480715 #83032]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:49:10.480827 #83032]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:49:10.480862 #83032]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:49:10.481010 #83032]  INFO -- : 
+generate_command=scaffold, file=maml.yml
+I, [2013-03-05T20:49:10.481051 #83032]  INFO -- : @file_provided=true
+I, [2013-03-05T20:49:10.482111 #83032]  INFO -- : YAML loaded file
+I, [2013-03-05T20:49:10.482192 #83032]  INFO -- : extract_arg=> maml_field=day_id
+I, [2013-03-05T20:49:10.482322 #83032]  INFO -- : extract_arg=> maml_field=meal_id 50 true
+I, [2013-03-05T20:49:10.482410 #83032]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:49:10.482629 #83032]  INFO -- : extract_arg=> maml_field=status
+I, [2013-03-05T20:49:10.482755 #83032]  INFO -- : extract_arg=> maml_field=completeness
+I, [2013-03-05T20:49:10.482854 #83032]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:49:10.482941 #83032]  INFO -- : extract_arg=> maml_field=title
+I, [2013-03-05T20:49:10.483067 #83032]  INFO -- : extract_arg=> maml_field=plate_id
+I, [2013-03-05T20:49:10.483159 #83032]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:49:10.483268 #83032]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:49:10.483357 #83032]  INFO -- : extract_arg=> maml_field=.units
+I, [2013-03-05T20:49:10.483446 #83032]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:49:10.483524 #83032]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:49:10.483635 #83032]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:49:10.483763 #83032]  INFO -- : extract_arg=> maml_field=base_uofm_id
+I, [2013-03-05T20:49:10.483865 #83032]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:49:10.483960 #83032]  INFO -- : extract_arg=> maml_field=ratio
+I, [2013-03-05T20:49:10.484063 #83032]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:49:10.484155 #83032]  INFO -- : extract_arg=> maml_field=system
+I, [2013-03-05T20:49:10.484270 #83032]  INFO -- : extract_arg=> maml_field=.related_measures
+I, [2013-03-05T20:49:10.484357 #83032]  INFO -- : extract_arg=> maml_field=..ratio
+I, [2013-03-05T20:49:10.484444 #83032]  INFO -- : extract_arg=> maml_field==is_base
+I, [2013-03-05T20:49:10.484539 #83032]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:49:10.484631 #83032]  INFO -- : extract_arg=> maml_field=.proportion
+I, [2013-03-05T20:49:10.484734 #83032]  INFO -- : extract_arg=> maml_field=type %w[Meal Snack]
+I, [2013-03-05T20:49:10.484836 #83032]  INFO -- : extract_arg=> maml_field==in_library
+I, [2013-03-05T20:49:10.484920 #83032]  INFO -- : extract_arg=> maml_field==is_abstract
+I, [2013-03-05T20:49:10.485010 #83032]  INFO -- : extract_arg=> maml_field=.level
+I, [2013-03-05T20:49:10.485100 #83032]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:49:10.485211 #83032]  INFO -- : extract_arg=> maml_field=description
+I, [2013-03-05T20:49:10.485316 #83032]  INFO -- : extract_arg=> maml_field=category_id
+I, [2013-03-05T20:49:10.485421 #83032]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:49:10.485541 #83032]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:49:10.485633 #83032]  INFO -- : extract_arg=> maml_field=information_source
+I, [2013-03-05T20:49:10.485725 #83032]  INFO -- : extract_arg=> maml_field=accuracy %w[Draft Good Certain]
+I, [2013-03-05T20:49:10.485836 #83032]  INFO -- : extract_arg=> maml_field=category %w[Grains Protein Dairy Fruit Vegetables]
+I, [2013-03-05T20:49:10.485940 #83032]  INFO -- : ---- model: Plate 
+			day_id:integer
+			meal_id:integer
+			notes:string
+			status:string
+			completeness:string
+			calories:integer
+			title:string
+---
+
+
+I, [2013-03-05T20:49:10.486025 #83032]  INFO -- : ---- model: Plate_Item 
+			plate_id:integer
+			item_id:integer
+			uofm_id:integer
+			units:integer
+			calories:integer
+			notes:string
+---
+
+
+I, [2013-03-05T20:49:10.486147 #83032]  INFO -- : ---- model: Conversion 
+			item_id:integer
+			base_uofm_id:integer
+			uofm_id:integer
+			ratio:string
+---
+
+
+I, [2013-03-05T20:49:10.486232 #83032]  INFO -- : ---- model: UnitOfMeasure 
+			name:string
+			system:string
+			related_measures:integer
+			ratio:float
+			is_base:boolean
+---
+
+
+I, [2013-03-05T20:49:10.486308 #83032]  INFO -- : ---- model: Meal 
+			name:string
+			proportion:integer
+			type:string
+---
+
+
+I, [2013-03-05T20:49:10.486388 #83032]  INFO -- : ---- model: Item 
+			in_library:boolean
+			is_abstract:boolean
+			level:integer
+			name:string
+			description:string
+			category_id:integer
+			calories:integer
+			uofm_id:integer
+			information_source:string
+			accuracy:string
+			category:string
+---
+
+
+I, [2013-03-05T20:49:45.368067 #83041]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:49:45.368187 #83041]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:49:45.368218 #83041]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:49:45.368356 #83041]  INFO -- : 
+generate_command=, file=
+I, [2013-03-05T20:49:45.368393 #83041]  INFO -- : @file_provided=
+I, [2013-03-05T20:49:45.369426 #83041]  INFO -- : YAML loaded file
+I, [2013-03-05T20:49:45.369521 #83041]  INFO -- : extract_arg=> maml_field=day_id
+I, [2013-03-05T20:49:45.369655 #83041]  INFO -- : extract_arg=> maml_field=meal_id 50 true
+I, [2013-03-05T20:49:45.369731 #83041]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:49:45.369864 #83041]  INFO -- : extract_arg=> maml_field=status
+I, [2013-03-05T20:49:45.369974 #83041]  INFO -- : extract_arg=> maml_field=completeness
+I, [2013-03-05T20:49:45.370057 #83041]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:49:45.370129 #83041]  INFO -- : extract_arg=> maml_field=title
+I, [2013-03-05T20:49:45.370200 #83041]  INFO -- : extract_arg=> maml_field=plate_id
+I, [2013-03-05T20:49:45.370256 #83041]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:49:45.370340 #83041]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:49:45.370437 #83041]  INFO -- : extract_arg=> maml_field=.units
+I, [2013-03-05T20:49:45.370531 #83041]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:49:45.370628 #83041]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:49:45.370733 #83041]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:49:45.370806 #83041]  INFO -- : extract_arg=> maml_field=base_uofm_id
+I, [2013-03-05T20:49:45.370879 #83041]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:49:45.370936 #83041]  INFO -- : extract_arg=> maml_field=ratio
+I, [2013-03-05T20:49:45.371018 #83041]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:49:45.371079 #83041]  INFO -- : extract_arg=> maml_field=system
+I, [2013-03-05T20:49:45.371167 #83041]  INFO -- : extract_arg=> maml_field=.related_measures
+I, [2013-03-05T20:49:45.371239 #83041]  INFO -- : extract_arg=> maml_field=..ratio
+I, [2013-03-05T20:49:45.371297 #83041]  INFO -- : extract_arg=> maml_field==is_base
+I, [2013-03-05T20:49:45.371386 #83041]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:49:45.371486 #83041]  INFO -- : extract_arg=> maml_field=.proportion
+I, [2013-03-05T20:49:45.371574 #83041]  INFO -- : extract_arg=> maml_field=type %w[Meal Snack]
+I, [2013-03-05T20:49:45.371686 #83041]  INFO -- : extract_arg=> maml_field==in_library
+I, [2013-03-05T20:49:45.371783 #83041]  INFO -- : extract_arg=> maml_field==is_abstract
+I, [2013-03-05T20:49:45.371865 #83041]  INFO -- : extract_arg=> maml_field=.level
+I, [2013-03-05T20:49:45.371937 #83041]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:49:45.372008 #83041]  INFO -- : extract_arg=> maml_field=description
+I, [2013-03-05T20:49:45.372100 #83041]  INFO -- : extract_arg=> maml_field=category_id
+I, [2013-03-05T20:49:45.372201 #83041]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:49:45.372276 #83041]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:49:45.372346 #83041]  INFO -- : extract_arg=> maml_field=information_source
+I, [2013-03-05T20:49:45.372409 #83041]  INFO -- : extract_arg=> maml_field=accuracy %w[Draft Good Certain]
+I, [2013-03-05T20:49:45.372504 #83041]  INFO -- : extract_arg=> maml_field=category %w[Grains Protein Dairy Fruit Vegetables]
+I, [2013-03-05T20:49:45.372575 #83041]  INFO -- : ---- model: Plate 
+			day_id:integer
+			meal_id:integer
+			notes:string
+			status:string
+			completeness:string
+			calories:integer
+			title:string
+---
+
+
+I, [2013-03-05T20:49:45.372640 #83041]  INFO -- : ---- model: Plate_Item 
+			plate_id:integer
+			item_id:integer
+			uofm_id:integer
+			units:integer
+			calories:integer
+			notes:string
+---
+
+
+I, [2013-03-05T20:49:45.372739 #83041]  INFO -- : ---- model: Conversion 
+			item_id:integer
+			base_uofm_id:integer
+			uofm_id:integer
+			ratio:string
+---
+
+
+I, [2013-03-05T20:49:45.372815 #83041]  INFO -- : ---- model: UnitOfMeasure 
+			name:string
+			system:string
+			related_measures:integer
+			ratio:float
+			is_base:boolean
+---
+
+
+I, [2013-03-05T20:49:45.372866 #83041]  INFO -- : ---- model: Meal 
+			name:string
+			proportion:integer
+			type:string
+---
+
+
+I, [2013-03-05T20:49:45.372912 #83041]  INFO -- : ---- model: Item 
+			in_library:boolean
+			is_abstract:boolean
+			level:integer
+			name:string
+			description:string
+			category_id:integer
+			calories:integer
+			uofm_id:integer
+			information_source:string
+			accuracy:string
+			category:string
+---
+
+
+I, [2013-03-05T20:51:04.505856 #83064]  INFO -- : PLATFORM=x86_64-darwin12.2.1
+I, [2013-03-05T20:51:04.505969 #83064]  INFO -- : user .mamlrc false
+I, [2013-03-05T20:51:04.506002 #83064]  INFO -- : project .mamlrc false
+I, [2013-03-05T20:51:04.506150 #83064]  INFO -- : 
+generate_command=, file=maml.yml
+I, [2013-03-05T20:51:04.506192 #83064]  INFO -- : @file_provided=true
+I, [2013-03-05T20:51:04.507234 #83064]  INFO -- : YAML loaded file
+I, [2013-03-05T20:51:04.507314 #83064]  INFO -- : extract_arg=> maml_field=day_id
+I, [2013-03-05T20:51:04.507446 #83064]  INFO -- : extract_arg=> maml_field=meal_id 50 true
+I, [2013-03-05T20:51:04.507519 #83064]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:51:04.507635 #83064]  INFO -- : extract_arg=> maml_field=status
+I, [2013-03-05T20:51:04.507704 #83064]  INFO -- : extract_arg=> maml_field=completeness
+I, [2013-03-05T20:51:04.507783 #83064]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:51:04.507840 #83064]  INFO -- : extract_arg=> maml_field=title
+I, [2013-03-05T20:51:04.507921 #83064]  INFO -- : extract_arg=> maml_field=plate_id
+I, [2013-03-05T20:51:04.507987 #83064]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:51:04.508128 #83064]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:51:04.508220 #83064]  INFO -- : extract_arg=> maml_field=.units
+I, [2013-03-05T20:51:04.508306 #83064]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:51:04.508393 #83064]  INFO -- : extract_arg=> maml_field=notes
+I, [2013-03-05T20:51:04.508490 #83064]  INFO -- : extract_arg=> maml_field=item_id
+I, [2013-03-05T20:51:04.508615 #83064]  INFO -- : extract_arg=> maml_field=base_uofm_id
+I, [2013-03-05T20:51:04.508711 #83064]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:51:04.508805 #83064]  INFO -- : extract_arg=> maml_field=ratio
+I, [2013-03-05T20:51:04.508917 #83064]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:51:04.509020 #83064]  INFO -- : extract_arg=> maml_field=system
+I, [2013-03-05T20:51:04.509150 #83064]  INFO -- : extract_arg=> maml_field=.related_measures
+I, [2013-03-05T20:51:04.509252 #83064]  INFO -- : extract_arg=> maml_field=..ratio
+I, [2013-03-05T20:51:04.509348 #83064]  INFO -- : extract_arg=> maml_field==is_base
+I, [2013-03-05T20:51:04.509454 #83064]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:51:04.509558 #83064]  INFO -- : extract_arg=> maml_field=.proportion
+I, [2013-03-05T20:51:04.509656 #83064]  INFO -- : extract_arg=> maml_field=type %w[Meal Snack]
+I, [2013-03-05T20:51:04.509814 #83064]  INFO -- : extract_arg=> maml_field==in_library
+I, [2013-03-05T20:51:04.509908 #83064]  INFO -- : extract_arg=> maml_field==is_abstract
+I, [2013-03-05T20:51:04.510008 #83064]  INFO -- : extract_arg=> maml_field=.level
+I, [2013-03-05T20:51:04.510102 #83064]  INFO -- : extract_arg=> maml_field=name
+I, [2013-03-05T20:51:04.510220 #83064]  INFO -- : extract_arg=> maml_field=description
+I, [2013-03-05T20:51:04.510335 #83064]  INFO -- : extract_arg=> maml_field=category_id
+I, [2013-03-05T20:51:04.510446 #83064]  INFO -- : extract_arg=> maml_field=.calories
+I, [2013-03-05T20:51:04.510560 #83064]  INFO -- : extract_arg=> maml_field=uofm_id
+I, [2013-03-05T20:51:04.510651 #83064]  INFO -- : extract_arg=> maml_field=information_source
+I, [2013-03-05T20:51:04.510737 #83064]  INFO -- : extract_arg=> maml_field=accuracy %w[Draft Good Certain]
+I, [2013-03-05T20:51:04.510856 #83064]  INFO -- : extract_arg=> maml_field=category %w[Grains Protein Dairy Fruit Vegetables]
+I, [2013-03-05T20:51:04.510970 #83064]  INFO -- : ---- model: Plate 
+			day_id:integer
+			meal_id:integer
+			notes:string
+			status:string
+			completeness:string
+			calories:integer
+			title:string
+---
+
+
+I, [2013-03-05T20:51:04.511047 #83064]  INFO -- : ---- model: Plate_Item 
+			plate_id:integer
+			item_id:integer
+			uofm_id:integer
+			units:integer
+			calories:integer
+			notes:string
+---
+
+
+I, [2013-03-05T20:51:04.511169 #83064]  INFO -- : ---- model: Conversion 
+			item_id:integer
+			base_uofm_id:integer
+			uofm_id:integer
+			ratio:string
+---
+
+
+I, [2013-03-05T20:51:04.511222 #83064]  INFO -- : ---- model: UnitOfMeasure 
+			name:string
+			system:string
+			related_measures:integer
+			ratio:float
+			is_base:boolean
+---
+
+
+I, [2013-03-05T20:51:04.511265 #83064]  INFO -- : ---- model: Meal 
+			name:string
+			proportion:integer
+			type:string
+---
+
+
+I, [2013-03-05T20:51:04.511313 #83064]  INFO -- : ---- model: Item 
+			in_library:boolean
+			is_abstract:boolean
+			level:integer
+			name:string
+			description:string
+			category_id:integer
+			calories:integer
+			uofm_id:integer
+			information_source:string
+			accuracy:string
+			category:string
+---
+
+
