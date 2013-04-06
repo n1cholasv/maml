@@ -7,11 +7,14 @@ Gemcutter
 == Build new gems
 
 # modify version in gemspec
-rake manifest
-rake build_gemspec
+rake version:write MAJOR=0 MINOR=1 PATCH=0
+rake instal  # install locally
 
-# upload to gemspect again
+# build gem
+gem build maml.gemspec
 
+# release gem
+rake release
 
 == Using as a Plugin
 

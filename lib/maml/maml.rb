@@ -10,6 +10,7 @@
 require "yaml"
 require "logger"
 require "ftools"
+require "fileutils"
 
 # mechanism to get current method name..don't really need for current implementation..was for writing handlers that could write their own name
 module CurrentMethodName
@@ -24,7 +25,7 @@ include CurrentMethodName
 module Maml
   $logger=Logger.new('maml.log') 
   $logger.level=Logger::INFO
-  $logger.info "PLATFORM=#{PLATFORM}"
+  $logger.info "PLATFORM=#{RUBY_PLATFORM}"
 
   # look user and project configuration file
   user_config_file=ENV['HOME'] + "/.mamlrc"
@@ -42,7 +43,8 @@ module Maml
   def create_sample
     pwd=Dir.pwd
     sample= File.join File.dirname(__FILE__), "maml.yml"
-    File.copy sample, pwd, true
+    $logger.info "create_sample called, sample=#{sample}, pwd=#{pwd}"
+    FileUtils.copy sample, pwd
   end
 
   def extract_arg maml_field
@@ -150,7 +152,7 @@ module Maml
 
 
   # main function
-  def main
+  def main_overview
     puts "\nMAML=Migration Apathy Markup Language"
     puts "======================================"
     puts "Visit http://lazymaml.org for more details"
@@ -166,20 +168,27 @@ module Maml
     puts "use ---haml or similar for adding extra commands. -<anything> is passed to the command-line minus the -"
     puts "maml supports one file at time"
     puts "generated files are in <rails_root>/maml"
-    puts "Run 'maml.rb create_sample' to generate a sample maml.yml file for a starting point. Note: this will overwrite any existing maml.yml."
+    puts "Run 'maml.rb -create_sample' to generate a sample maml.yml file for a starting point. Note: this will overwrite any existing maml.yml."
     puts "\nSpecify field type by symbol prefix as follows:"
     puts "no prefix=string ; no prefix and _id suffix = integer ; override _id by adding prefix"
     puts "examples: string, integer_id, .integer, ..float,  %date, %%datetime, @time, @@timestamp, :string, ::text, =boolean, &binary"
     puts "------------------------------------------------------------------------\n"
     puts ""
+  end
   
+  def main
+    main_overview
+    
+    $logger.info "========> main method called"
+    
     generate_command, file, go = process_args ARGV
-    $logger.info "\ngenerate_command=#{generate_command}, file=#{file}"
+    $logger.info "\n==== generate_command=#{generate_command}, file=#{file}"
     @file_provided=true if file
     $logger.info  "@file_provided=#{@file_provided}"
       
     file="maml.yml" unless file
     generate_command="model" unless generate_command
+    $logger.info "generate_command=#{generate_command}, file=#{file}"
     puts "generate_command=#{generate_command}, file=#{file}"
     
     # allow copy_sample via file (e.g. maml.rb copy_sample) or via command (e.g. maml.rb -copy_sample)
@@ -201,6 +210,7 @@ module Maml
   
     maml=nil
     begin 
+      $logger.info "about to load YAML file file=#{file}"
       maml=YAML::load(File.open(file))
       $logger.info "YAML loaded file"
     rescue
@@ -208,6 +218,8 @@ module Maml
       puts "Unable to load file #{file}"
       exit
     end
+    
+    $logger.info "yaml parsing complete"
 
     model_args, model_options = build_model_args maml
 
@@ -222,7 +234,7 @@ module Maml
       # File.open("maml.log", "a") { |file| file.write 
       $logger.info "---- model: #{model_name} \n\t\t\t#{model_fields.split(" ").join("\n\t\t\t")}\n---\n\n"
       # command="ruby script/generate #{generate_command} #{model_name} #{model_fields} >> maml.log"
-      command="ruby script/generate #{generate_command} #{model_name} #{model_fields}"
+      command="rails g #{generate_command} #{model_name} #{model_fields}"
       puts "command: #{command}\n\n"
       if @file_provided == true
         if go
