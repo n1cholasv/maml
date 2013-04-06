@@ -1,0 +1,80 @@
+# maml- migration apathy markup lanaguage
+# integer, float,  date, datetime, timestamp, time, text, string, binary, boolean
+#
+# specify field type by symbol prefix as follows
+# default type is string, except where field has _id suffice- then it's integer (override by adding prefix as shown below)
+# .integer, ..float,  %date, %%datetime, @time, @@timestamp, :string, ::text, =boolean, &binary
+#
+# level 1: module, level 2: class, level 3: field
+
+innerplate:
+    Plate:
+        - day_id  # any _id defaults to integer
+        - meal_id 50 true
+        - notes
+        - status
+        - completeness
+        - .calories
+        - title
+
+    Plate_Item:
+        - plate_id
+        - item_id
+        - uofm_id
+        - .units
+        - .calories
+        - notes
+    
+    Conversion:
+        - item_id
+        - base_uofm_id
+        - uofm_id
+        - ratio
+    
+    UnitOfMeasure:
+        - name
+        - system
+        - .related_measures
+        - ..ratio
+        - =is_base
+    
+    Meal:
+        - name
+        - .proportion
+        - type %w[Meal Snack]
+
+# loaded as my test case...        
+#    Commitment:
+#        - %start_date
+#        - %end_date
+#        - ..goal_weight
+#        - ..start_weight
+#        - ..end_weight
+#        - ..current_weight
+#        - .stable_daily_calories
+#        - .goal_daily_calories
+#        - .calorie_margin
+        
+    Item:
+        - =in_library
+        - =is_abstract
+        - .level
+        - name
+        - description
+        - category_id
+        - .calories
+        - uofm_id
+        - information_source
+        - accuracy %w[Draft Good Certain]
+        - category %w[Grains Protein Dairy Fruit Vegetables]
+        
+    Day:
+        - %date
+        - plan
+        - .goal_calories
+        - .meals_expected
+        - .meals_completed
+        - .current_calories
+        - =is_complete
+        - summary
+        
